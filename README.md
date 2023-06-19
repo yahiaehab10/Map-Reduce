@@ -41,7 +41,3 @@ The Salaries MapReduce program consists of the following Java classes:
 ## Contributing
 
 Contributions to this project are welcome. If you find any issues or want to add new features, please create an issue or submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
